@@ -1,0 +1,31 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.kotlin/
+
+# Build
+build/
+.gradle/
+captures/
+.cxx/
+
+# Local config
+local.properties
+secrets.xml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# APK outputs (keep structure but ignore files)
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
