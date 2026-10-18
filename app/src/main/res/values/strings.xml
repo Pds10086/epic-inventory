@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_bg">#2A2138</color>
+    <color name="widget_text">#FFFFFF</color>
+    <string name="widget_label">Epic 库存</string>
+    <string name="widget_description">显示你的 Epic 游戏库存概览</string>
+    <string name="widget_loading">正在加载库存…</string>
+</resources>
