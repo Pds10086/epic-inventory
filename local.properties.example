@@ -1,0 +1,12 @@
+# This file is local-only and should NOT be committed.
+# It tells Gradle where to find the Android SDK.
+# Install Android Studio or set ANDROID_HOME env var, then set this path.
+
+# Example Windows path:
+# sdk.dir=C\:\\Users\\<you>\\AppData\\Local\\Android\\Sdk
+# Example macOS path:
+# sdk.dir=/Users/<you>/Library/Android/sdk
+# Example Linux path:
+# sdk.dir=/home/<you>/Android/Sdk
+
+# Or set the environment variable ANDROID_HOME and leave this file empty.
